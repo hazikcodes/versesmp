@@ -1,0 +1,2 @@
+# versesmp
+Minecraft SMP
